@@ -1,0 +1,2 @@
+# EmailAutomation
+ Automate analysis emails.
